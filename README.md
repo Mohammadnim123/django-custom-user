@@ -1,6 +1,7 @@
 [Repo](https://github.com/Mohammadnim123/django-custom-user)
 
 [PR1](https://github.com/Mohammadnim123/django-custom-user/pull/1)
+[PR2](https://github.com/Mohammadnim123/django-custom-user/pull/2)
 
 ## OverView
 
